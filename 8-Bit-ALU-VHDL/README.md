@@ -1,4 +1,4 @@
-\# 8-bit ALU Design in VHDL
+ 8-bit ALU Design in VHDL
 
 
 
@@ -6,21 +6,21 @@ An 8-bit Arithmetic Logic Unit designed in VHDL and synthesized using Xilinx ISE
 
 
 
-\## ✨ Features
+\ ✨ Features
 
 
 
-\- \*\*Input:\*\* Two 8-bit operands (A, B)
+\Input: Two 8-bit operands (A, B)
 
-\- \*\*Output:\*\* 16-bit result 
+\Output: 16-bit result 
 
-\- \*\*Operations:\*\* 8 different arithmetic and logical operations
+\Operations: 8 different arithmetic and logical operations
 
-\- \*\*Status:\*\* ✅ Fully synthesized with 0 errors, 0 warnings
+\Status: ✅ Fully synthesized with 0 errors, 0 warnings
 
 
 
-\## 📊 Operations
+\ 📊 Operations
 
 
 
@@ -46,55 +46,54 @@ An 8-bit Arithmetic Logic Unit designed in VHDL and synthesized using Xilinx ISE
 
 
 
-\## 🛠️ Tools Used
+\ 🛠️ Tools Used
 
 
 
-\- \*\*Language:\*\* VHDL
+\Language: VHDL
 
-\- \*\*IDE:\*\* Xilinx ISE 14.7  
+\IDE: Xilinx ISE 14.7  
 
-\- \*\*Target Device:\*\* Spartan-3E (xc3s250e)
+\Target Device: Spartan-3E (xc3s250e)
 
-\- \*\*Simulation:\*\* ISim and GTKWave
-
-
-
-\## 📈 Synthesis Results
+\Simulation: ISim and GTKWave
 
 
 
-\- \*\*Errors:\*\* 0
-
-\- \*\*Warnings:\*\* 0
-
-\- \*\*Resource Usage:\*\* 1% of FPGA
-
-\- \*\*LUTs Used:\*\* 82 out of 4896
-
-\- \*\*Multipliers:\*\* 1 (MULT18X18)
-
-\- \*\*Max Delay:\*\* 10.837ns
+\ 📈 Synthesis Results
 
 
 
-\## 📸 RTL Schematic
+\Errors: 0
+
+Warnings: 0
+
+Resource Usage: 1% of FPGA
+LUTs Used:82 out of 4896
+
+Multipliers: 1 (MULT18X18)
+
+Max Delay: 10.837ns
 
 
 
-!\[RTL](synthesis/rtl\_schematic.png)
+\📸 RTL Schematic
 
 
 
-\## 📊 Simulation Waveform
+[RTL](synthesis/rtl\_schematic.png)
 
 
 
-!\[Waveform](simulation/waveform.png)
+ 📊 Simulation Waveform
 
 
 
-\## 🚀 How to Use
+[Waveform](simulation/waveform.png)
+
+
+
+ 🚀 How to Use
 
 
 
@@ -110,7 +109,7 @@ An 8-bit Arithmetic Logic Unit designed in VHDL and synthesized using Xilinx ISE
 
 
 
-\## 📁 Project Structure
+📁 Project Structure
 
 
 
@@ -130,17 +129,18 @@ An 8-bit Arithmetic Logic Unit designed in VHDL and synthesized using Xilinx ISE
 
 
 
-\## 👤 Author
+ 👤 Author
 
 
 
-\*\*Rohan Musale\*\*
+Rohan Musale
 
-\- LinkedIn: www.linkedin.com/in/rohan-musale-2501rm
+LinkedIn: www.linkedin.com/in/rohan-musale-2501rm
 
-\- GitHub: Rohan-Musale
+ GitHub: Rohan-Musale
 
----
+
 
 ⭐ If you found this helpful, please give it a star!
+
 
