@@ -1,0 +1,35 @@
+=========================================================================
+SYNTHESIS REPORT - 8-bit ALU
+=========================================================================
+Date: [Today's date]
+Tool: Xilinx ISE 14.7
+Target Device: xc3s250e-5-pq208
+
+=========================================================================
+SYNTHESIS RESULTS
+=========================================================================
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+
+=========================================================================
+RESOURCE UTILIZATION
+=========================================================================
+
+Device utilization summary:
+---------------------------
+Selected Device : 3s250epq208-5 
+
+Number of Slices:                       43  out of   2448     1%  
+Number of 4 input LUTs:                 82  out of   4896     1%  
+Number of IOs:                          36
+Number of bonded IOBs:                  36  out of    158    22%  
+Number of MULT18X18SIOs:                 1  out of     12     8%  
+
+=========================================================================
+TIMING SUMMARY
+=========================================================================
+Maximum combinational path delay: 10.837ns
+
+All constraints met successfully.
+=========================================================================
